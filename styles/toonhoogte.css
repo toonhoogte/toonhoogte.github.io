@@ -123,6 +123,12 @@ section.box {
 }
 
 @media (max-width: 600px) {
+	#navigation {
+		flex-direction: column;
+	}
+	#navigation ul {
+		padding: 0;
+	}
 	#social img {
 		width: 100%;
 	}
