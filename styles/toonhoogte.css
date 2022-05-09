@@ -111,6 +111,9 @@ section.box {
 	background: #fff;
 	color: #5f1ae5;
 }
+.button.button-link.selected {
+	border-bottom: 4px solid #5f1ae5;
+}
 .button:hover {
 	background: #5f1ae5;
 	color: #fff;
